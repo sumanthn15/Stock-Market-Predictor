@@ -83,10 +83,10 @@ The stock market predictor model was created using a neural network built with K
 ---
 
 ## How It Works
-- 1.The user enters a stock ticker symbol (e.g., AAPL, TSLA) into the app.
-- 2.The app fetches historical stock data for that ticker using the yfinance API.
-- 3.The neural network model predicts future stock prices based on the historical data.
-- 4.The app displays the predictions along with interactive visualizations of historical stock price trends.
+- The user enters a stock ticker symbol (e.g., AAPL, TSLA) into the app.
+- The app fetches historical stock data for that ticker using the yfinance API.
+- The neural network model predicts future stock prices based on the historical data.
+- The app displays the predictions along with interactive visualizations of historical stock price trends.
 
 ---
 
