@@ -17,7 +17,7 @@ The app has been deployed on Render and is accessible at: [Stock Market Predicto
 
 ## Live Demo
 
-Try the app live: [Stock Market Predictor on Render](https://stock-market-predictor-b7dp.onrender.com)
+Try the app live: [Stock Market Predictor on Render](https://stock-market-predictor-1-jy9o.onrender.com)
 
 ---
 
