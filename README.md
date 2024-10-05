@@ -2,7 +2,7 @@
 
 This repository contains the code for a **Stock Market Predictor App** built using Streamlit, with a machine learning model trained on historical stock data fetched using `yfinance`. The app provides predictions for future stock prices, along with visualizations of stock trends, helping users make informed decisions.
 
-The app has been deployed on Render and is accessible at: [Stock Market Predictor on Render](https://stock-market-predictor-b7dp.onrender.com)
+The app has been deployed on Render and is accessible at: [Stock Market Predictor on Render](https://stock-market-predictor-1-jy9o.onrender.com)
 
 ---
 
