@@ -57,12 +57,12 @@ This will start a local development server, and the app will be available at htt
 
 The project depends on several Python libraries, which are listed in the requirements.txt file:
 
-numpy
-pandas
-matplotlib
-yfinance
-keras
-streamlit
+- numpy
+- pandas
+- matplotlib
+- yfinance
+- keras
+- streamlit
 
 You can install these dependencies via:
 
